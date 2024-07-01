@@ -1,4 +1,4 @@
-DONE 100%
+(DONE 100%)
 Sesuaikan dengan kebutuhan masing masing, dengan mengubah :
 - config -> config -> baseurl
 - config -> database -> database
