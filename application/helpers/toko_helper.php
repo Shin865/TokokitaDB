@@ -12,7 +12,7 @@ function getDetailCity($cityId){
         CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
         CURLOPT_CUSTOMREQUEST => "GET",
         CURLOPT_HTTPHEADER => array(
-        "key: fc0f35540f77edb443c7e7b8546fb8f2"
+        "key: YOUR_API_KEY"
         ),
     ));
     $response = curl_exec($curl);
